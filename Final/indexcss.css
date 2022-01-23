@@ -1,0 +1,79 @@
+
+body{
+    text-align: center;
+    background-image: url("pics/0.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+#logo{
+    width:50px;
+    height: 65px;
+    margin-top:  20px;
+}
+div{
+    
+    margin-top:75px; 
+    border-radius: 4px;
+    
+    background-color: white;
+    display: inline-block;
+    
+    
+}
+form{
+    margin: 10px;
+   
+    
+    
+}
+button{
+   width: 150px;
+   
+   border-radius: 3px;
+   color: white;
+   border: .5px solid #810000 ;
+   background-color: #810000;
+   margin-bottom: 20px;
+   font-family:sans-serif;
+  
+}
+#login:hover{
+    background-color: #B90101;
+    border: .5px solid #B90101 ;
+}
+#password{
+    border-radius: 3px;
+    border: .5px solid #EBEBEB;
+    background-color: #EBEBEB;
+    margin-bottom: 10px; 
+    width: 150px;
+    height: 100%;
+}
+#username{
+    border-radius: 3px;
+    border: .5px solid #EBEBEB;
+    background-color: #EBEBEB;
+    margin-bottom: 10px; 
+    width: 150px;
+    height: 100%;
+}
+#title{
+    font-size: 32px;
+   
+    text-align: left;
+    font-family: Impact, Charcoal,sans-serif;
+    font-weight: normal;
+    margin-left: 20px;
+    
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 30, 2020, 3:05:42 PM
+    Author     : dreal
+*/
+

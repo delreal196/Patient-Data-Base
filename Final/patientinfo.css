@@ -1,0 +1,106 @@
+
+body{
+    text-align: center;
+    background-image: url("pics/0.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+#login_bin{
+     margin-top:25px; 
+    border-radius: 4px;
+    
+    background-color: white;
+    display: inline-block;
+}
+#logo{
+    width:350px;
+    height: 100px;
+    margin-top: 5px;
+    
+}
+
+#form{
+    margin: 10px;
+    
+    
+   
+    
+    
+}
+
+#database{
+    color: white;
+}
+#button{
+   
+     width: 150px;
+   font-size: 15px;
+   border-radius: 3px;
+   color: white;
+   border: .5px solid #810000 ;
+   background-color: #810000;
+   margin-bottom: 20px;
+   font-family:sans-serif;;
+}
+#button:hover{
+    background-color: #B90101;
+    border: .5px solid #B90101 ;
+}
+a{
+    text-decoration: none;
+    
+}
+#login:hover{
+    background-color: #B90101;
+    border: .5px solid #B90101 ;
+}
+#password{
+    border-radius: 3px;
+    border: .5px solid #EBEBEB;
+    background-color: #EBEBEB;
+    margin-bottom: 10px; 
+    width: 150px;
+    height: 100%;
+}
+#username{
+    border-radius: 3px;
+    border: .5px solid #EBEBEB;
+    background-color: #EBEBEB;
+    margin-bottom: 10px; 
+    width: 150px;
+    height: 100%;
+}
+#lname{
+    border-radius: 3px;
+    border: .5px solid #EBEBEB;
+    background-color: #EBEBEB;
+    margin-bottom: 10px; 
+    width: 150px;
+    height: 100%;
+}
+#title{
+    font-size: 32px;
+   
+    margin: 1px;
+    font-family: Impact, Charcoal,sans-serif;
+    font-weight: normal;
+    
+    
+}
+input[type=submit]{
+    width: 155px;
+   
+   border-radius: 3px;
+   color: white;
+   border: .5px solid #810000 ;
+   background-color: #810000;
+   margin-bottom: 20px;
+   font-family:sans-serif;
+}
+
+input[type=submit]:hover{
+    background-color: #B90101;
+    border: .5px solid #B90101 ;
+}
